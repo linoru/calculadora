@@ -1,2 +1,4 @@
 # calculadora
-Calculadora
+
+ Esta es una calculadora sencilla.
+
